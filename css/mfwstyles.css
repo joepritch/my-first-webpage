@@ -1,0 +1,14 @@
+body  {
+  background-image: url("../img/tile.png");
+  line-height: 20
+}
+h1  {
+  text-align: center;
+  color: red;
+}
+p {
+  font-style: oblique;
+  font-weight: bold;
+  font-family: fantasy;
+  font-size: 150%
+}

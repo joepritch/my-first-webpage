@@ -1,0 +1,14 @@
+body  {
+  text-align: center;
+  text-shadow: 4px 4px 8px #000000;
+  color: #ffffff
+}
+ul  {
+  list-style-position: inside;
+}
+h2  {
+  font-style: italic;
+}
+p {
+  font-family: sans-serif;
+}
